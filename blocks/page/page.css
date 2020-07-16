@@ -1,0 +1,9 @@
+.page {
+  font-family: "Inter";
+  max-width: 1280px;
+  font-family: "Inter", sans-serif;
+  /* выше установили ограничение по максимальной ширине */
+  margin: 0 auto;
+  /* выше для экранов больше 1600px отцентрировали весь контент */
+  color: #fff;
+}

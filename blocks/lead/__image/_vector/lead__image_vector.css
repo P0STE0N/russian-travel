@@ -1,0 +1,15 @@
+@media screen and (min-width: 1024px) and (max-width: 1260px) {
+
+    .lead__image {
+        height: 120px;
+        width: 100%;
+        margin: 0 auto 10px;
+    }
+}
+
+
+.lead__image_vector {
+    width: 90%;
+    margin: 100px auto;
+    background-size: cover;
+}
