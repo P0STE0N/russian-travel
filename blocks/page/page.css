@@ -1,6 +1,7 @@
 .page {
-  font-family: "Inter";
+  font-family: 'Inter', ‘Arial’, sans-serif;
   max-width: 1280px;
+  overflow: hidden;
   font-family: "Inter", sans-serif;
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
