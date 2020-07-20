@@ -1,0 +1,27 @@
+.lead__caption {
+  text-transform: uppercase;
+  align-self: flex-start;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 12px;
+  letter-spacing: 0.15em;
+  margin: 0;
+}
+
+@media screen and (max-width: 1260px) {
+  .lead__caption {
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
+}
