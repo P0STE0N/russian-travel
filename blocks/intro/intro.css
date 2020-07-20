@@ -7,7 +7,6 @@
 .intro {
   display: flex;
   flex-direction: column;
-  width: 985px;
   margin: 0 auto 87px;
   color: #ffffff;
 }
@@ -20,8 +19,8 @@
 
 @media screen and (max-width: 1023px) {
   .intro {
-    margin: 0 20px;
-    width: 100%;
+    padding-left: 10px;
+    width: 90%;
   }
 }
 
